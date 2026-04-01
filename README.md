@@ -1,1 +1,1 @@
-# Brents_lie_detrctor_app
+# Brents_lie_detector_app
